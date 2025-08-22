@@ -1,4 +1,4 @@
-# PPTD: Path Profiling for Transaction Detection
+# PPTD: A Path Profiling-based Threat Detection Method Towards Deployed Smart Contracts
 
 PPTD is a path profiling-based smart contract threat detection method that performs comprehensive path profiling to detect potential vulnerabilities and monitor execution traces.
 
@@ -99,3 +99,4 @@ For questions, issues, or collaboration opportunities, please contact:
 ## Acknowledgments
 
 The design inspiration for building PPTD comes from [ContractGuard](https://github.com/contractguard/experiments) and [EtherProv](https://github.com/shomzy/EtherProv). We are very grateful for the related works [Slither](https://github.com/crytic/slither) and [SMARTIAN](https://github.com/SoftSec-KAIST/Smartian). They laid the foundation for our framework and code. Thank you for their excellent work.
+
